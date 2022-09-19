@@ -8,7 +8,7 @@ Packages for Armbian multimedia support. Right now, it includes:
 ### Usage
 For the meta-packages and mali libraries, clone the repo and run the script:
 
-  `$ git clone https://github.com/teacupx/armbian-media`
+  `$ git clone https://github.com/Javimetal/armbian-media`
   
   `$ cd armbian-media`
   
